@@ -7,7 +7,7 @@
 ### ۱) مفاهیم پایه:  
   - نصب پایتون  
   - متغیرها (variables)، عبارات (expressions)، دستورات (statements)  
-  - نوع داده boolean  
+  - انواع داده‌های پایه (Integer, String، Boolean)  
   - دستورات شرطی (conditions)  
   - تمرینات تکمیلی فصل + کوئیز  
 
